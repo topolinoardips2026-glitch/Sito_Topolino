@@ -1,0 +1,165 @@
+body {
+  font-family: Arial;
+  margin: 40px;
+  background: #f5f5f5;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+#popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.8);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#popup img {
+  max-width: 80%;
+  max-height: 80%;
+}
+
+.hidden {
+  display: none !important;
+}
+
+#chiudi {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.Zio_Paperone {
+  color: blue;
+}
+
+.Paperino {
+  color: rgb(0, 183, 255);
+}
+
+.Qui {
+  color: rgb(255, 0, 0);
+}
+
+.Quo {
+  color: rgb(0, 255, 255);
+}
+
+.Qua {
+  color: rgb(0, 255, 34);
+}
+
+.Impiegato Alisota-Air {
+  color: rgb(255, 145, 0);
+}
+
+.Tassista {
+  color: rgb(0, 255, 128);
+}
+
+.Segretario {
+  color: rgb(255, 187, 0);
+}
+
+.Benzinaio {
+  color: rgb(153, 0, 255);
+}
+
+.Moglie_del_Benzinaio {
+  color: rgb(255, 0, 247);
+}
+
+.Cassiera_Autogrill {
+  color: rgb(251, 0, 255);
+}
+
+.Gondoliere {
+  color: rgb(191, 123, 63);
+}
+
+.Notaio_Vincenzoni {
+  color: rgb(89, 16, 16);
+}
+
+.Principessa_di_Roccasecca{
+  color: rgb(255, 5, 172);
+}
+
+.Creditore_1 {
+  color: rgb(164, 211, 119);
+}
+
+.Creditore_2 {
+  color: rgb(225, 213, 124);
+}
+
+.Creditore_3 {
+  color: rgb(102, 182, 222);
+}
+
+.Cameriere_Hotel {
+  color: rgb(211, 143, 143);
+}
+
+.Venditore_di_biglietti {
+  color: rgb(46, 125, 169);
+}
+
+.Creditore_4 {
+  color: rgb(228, 163, 163);
+}
+.Creditore_5 {
+  color: rgb(208, 162, 238);
+}
+
+.Creditore_6 {
+  color: rgb(255, 0, 0);
+}
+
+.Cuoca_del_ristorante {
+  color: rgb(128, 95, 131);
+}
+
+.Qui_Quo_Qua {
+  color: rgb(200, 77, 77);
+}
+
+.Autista_del_pullman {
+  color: rgb(90, 124, 203);
+}
+
+.Notaio_Piedipapera {
+  color: rgb(8, 74, 231);
+}
+
+
+h1 {
+  font-size: 32px; /* Dimensione del titolo grande */
+  color: #060606;
+}
+
+h1 .sottotitolo {
+  font-size: 18px;       /* Rimpicciolisce il sottotitolo */
+  font-weight: normal;   /* Toglie il grassetto (opzionale) */
+  color: #777777;        /* Lo rende grigio più chiaro (opzionale) */
+  margin-left: 15px;     /* Aggiunge un po' di spazio dal titolo principale */
+  vertical-align: middle; /* Lo allinea perfettamente al centro del testo grande */
+}
