@@ -1,0 +1,390 @@
+[
+  {
+    "pagina": 71,
+    "immagine": "immagini/pagina71.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      {
+        "personaggio": "Didascalia",
+        "frase": "Sta succedendo qualcosa di strano, al Club dei Miliardari..."
+      },
+      {
+        "personaggio": "Paperino",
+        "frase": "Celeri con quel tappeto, marchesini... il titolo nobiliare va guadagnato!"
+      },
+      {
+        "personaggio": "Qui",
+        "frase": "Uff! Non so se ne vale la pena..."
+      },
+      {
+        "personaggio": "Quo",
+        "frase": "Vuoi scherzare? Da adesso in poi sarà tutta in discesa, per noi!"
+      },
+      {
+        "personaggio": "Zio_Paperone",
+        "frase": "Ci siamo dati alle recite in maschera, nipote? Bravo!"
+      }
+    ]
+  },
+
+  {
+    "pagina": 72,
+    "immagine": "immagini/pagina72.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      {
+        "personaggio": "Paperino",
+        "frase": "Altolà, zione! Non puoi rivolgerti alla nobiltà! Non siamo alla stessa altezza!"
+      },
+      {
+        "personaggio": "Paperino",
+        "frase": "Ora puoi!"
+      },
+      {
+        "personaggio": "Zio_Paperone",
+        "frase": "Ha battuto la testa?"
+      },
+      {
+        "personaggio": "Qui",
+        "frase": "Ssst!"
+      },
+      {
+        "personaggio": "Qua",
+        "frase": "Ordinari riccastri! Ho scoperto di avere un antenato marchese, che in Italia mi ha lasciato il titolo e una ricchissima terra..."
+      },
+      {
+        "personaggio": "Qua",
+        "frase": "Domani a Firenze ritirerò i documenti, e al mio ritorno trasformerò il vostro club nel mio tinello, e voi nei miei paggi! Firmato: Marchese Paperino"
+      },
+      {
+        "personaggio": "Zio_Paperone",
+        "frase": "Grrr! Io lo de-nobilito subito!"
+      },
+      {
+        "personaggio": "Paperino",
+        "frase": "In aeroporto, marchesini! La plebe arricchita ci è ostile!"
+      }
+    ]
+  },
+
+  {
+    "pagina": 73,
+    "immagine": "immagini/pagina73.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "Ma..." },
+      { "personaggio": "Paperino", "frase": "niente posti per l'Italia fino a lunedì?! Ma il notaio Vincenzoni mi aspetta a Firenze domani! Devo diventare ricco!" },
+      { "personaggio": "Qui", "frase": "Tutta discesa, dicevi? Sì, verso il fondo! Come sempre!" },
+      { "personaggio": "Impiegato Alisota Air", "frase": "Però, se pagate la prima classe e fate quindici scali, potrete arrivare in Italia all'alba!" },
+      { "personaggio": "Paperino", "frase": "Ci sto!" },
+      { "personaggio": "Paperino", "frase": "Compro la prima classe! Anzi, la primissima!" },
+      { "personaggio": "Paperino", "frase": "Tanto domani sarò ricco!" },
+      { "personaggio": "Qui", "frase": "Umpf! Quelli erano i nostri risparmi, o sbaglio?" }
+    ]
+  },
+  {
+    "pagina": 74,
+    "immagine": "immagini/pagina74.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "E così, battendo tutti i record di scali inutili, Paperino arriva..." },
+      { "personaggio": "Didascalia", "frase": "...all'aeroporto sbagliato!" },
+      { "personaggio": "Paperino", "frase": "Presto! Piazza della Signoria 13!" }
+    ]
+  },
+  {
+    "pagina": 75,
+    "immagine": "immagini/pagina75.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Tassista", "frase": "Ehm... qui non c'è!" },
+      { "personaggio": "Tassista", "frase": "Siamo a Milano, amico! Se volete andare a Firenze, vi costerà una fortuna!" },
+      { "personaggio": "Paperino", "frase": "Non bado a spese, sto per diventare marchese! Portatemi a Firenze, e vi pagherò il doppio della tariffa!" },
+      { "personaggio": "Tassista", "frase": "Andata! E già che ci siamo vi faccio fare un giretto turistico, marchese!" },
+      { "personaggio": "Paperino", "frase": "E sia, cocchiere! Basta che arriviamo a Firenze per le 12 in punto!" },
+      { "personaggio": "Paperino", "frase": "Marchese Paperino... come suona bene! E come starei bene in quel castello!" }
+    ]
+  },
+  {
+    "pagina": 76,
+    "immagine": "immagini/pagina76.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "A mezzogiorno in punto..." },
+      { "personaggio": "Paperino", "frase": "Aspettatemi qui! Ritiro titolo e proprietà, poi torno a pagarvi!" },
+      { "personaggio": "Tassista", "frase": "Facciamo che vi seguo, marchese! Non si sa mai!" },
+      { "personaggio": "Segretario", "frase": "Il notaio Vincenzoni non c'è, è partito per Venezia! E ha spento il telefono!" },
+      { "personaggio": "Paperino", "frase": "Gasp! Venezia?!" },
+      { "personaggio": "Paperino", "frase": "Ma deve farmi diventare marchese! Avevamo un appuntamento!" },
+      { "personaggio": "Paperino", "frase": "Ve lo assicuro! Alle 12 in punto!" },
+      { "personaggio": "Segretario", "frase": "Ebbene, ora sono le 12:01! Il notaio è molto preciso... ma forse riuscite a prendere lo stesso treno, se vi sbrigate!" }
+    ]
+  },
+  {
+    "pagina": 77,
+    "immagine": "immagini/pagina77.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Paperino", "frase": "Svelti! Alla stazione!" },
+      { "personaggio": "Segretario", "frase": "Ma io sto lavorando! Sono il segretario!" },
+      { "personaggio": "Paperino", "frase": "E io sarò marchese! Vi rimborserò la giornata! Senza di voi come lo riconosco?" },
+      { "personaggio": "Didascalia", "frase": "Ma..." },
+      { "personaggio": "Paperino", "frase": "Così lo perdiamo! Perché c'è tutta questa gente in giro? C'è una festa?" },
+      { "personaggio": "Segretario", "frase": "A Firenze, eh? Oggi è sorprendentemente vuota!" },
+      { "personaggio": "Paperino", "frase": "Andiamo a piedi!" },
+      { "personaggio": "Rumore/suono", "frase": "POTI POTI (suono di una trombetta di un bambino in passeggino)" }
+    ]
+  },
+  {
+    "pagina": 78,
+    "immagine": "immagini/pagina78.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "Alla stazione..." },
+      { "personaggio": "Paperino", "frase": "Un biglietto per Venezia!" },
+      { "personaggio": "Segretario", "frase": "Veramente sono due! Voglio la mia paga..." },
+      { "personaggio": "Tassista", "frase": "Facciamo tre! Il tassametro corre ancora!" },
+      { "personaggio": "Paperino", "frase": "Ehm... accettate la mia parola come pagamento, buon uomo? Sarò marchese!" },
+      { "personaggio": "Paperino", "frase": "Ma quando finisce questo traffico?" }
+    ]
+  },
+  {
+    "pagina": 79,
+    "immagine": "immagini/pagina79.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "Qualche chilometro dopo..." },
+      { "personaggio": "Paperino", "frase": "Il pieno, per favore, stiamo andando a Venezia! Diventerò marchese!" },
+      { "personaggio": "Benzinaio", "frase": "Sgrunt!" },
+      { "personaggio": "Paperino", "frase": "A questo proposito... posso pagarvi quando ho ritirato il titolo? Al momento ho due creditori e nemmeno un centesimo..." },
+      { "personaggio": "Benzinaio", "frase": "Sgrunt!" },
+      { "personaggio": "Rumore/suono", "frase": "TLIN (suono della cassa)" },
+      { "personaggio": "Moglie_del_Benzinaio", "frase": "Buon viaggio, puccino! Fatti pagare! E portami un peluche da Venezia!" },
+      { "personaggio": "Benzinaio", "frase": "Sgrunt!" }
+    ]
+  },
+  {
+    "pagina": 80,
+    "immagine": "immagini/pagina80.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "Molti chilometri dopo..." },
+      { "personaggio": "Segretario", "frase": "Almeno qui non c'è traffico! Arriveremo prima del notaio Vincenzoni, se non ci fermiamo ancora..." },
+      { "personaggio": "Tassista", "frase": "Un'area di servizio! Qualcuno vuole fermarsi?" },
+      { "personaggio": "Segretario", "frase": "Io!" },
+      { "personaggio": "Benzinaio", "frase": "Sgrunt!" },
+      { "personaggio": "Paperino", "frase": "Ma dai!" },
+      { "personaggio": "Cartello", "frase": "500m" },
+      { "personaggio": "Paperino", "frase": "Mi raccomando, sbrighiamoci! Niente cibi, niente bibite, e soprattutto niente nuovi creditori!" },
+      { "personaggio": "Paperino", "frase": "Come non detto!" },
+      { "personaggio": "Cassiera_Autogrill", "frase": "Marchese? Che onore! Sono certa che pagherete tutto voi, allora!" },
+      { "personaggio": "Paperino", "frase": "Già!" }
+    ]
+  },
+  {
+    "pagina": 81,
+    "immagine": "immagini/pagina81.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "Duecentocinquanta chilometri dopo..." },
+      { "personaggio": "Paperino", "frase": "Perché ci siamo fermati?" },
+      { "personaggio": "Tassista", "frase": "Perché a Venezia serve la barca, marchese! Non ci sono strade!" },
+      { "personaggio": "Gondoliere", "frase": "Le barche sono finite, sono tutte alla Vogalonga!" },
+      { "personaggio": "Paperino", "frase": "C'è la vostra! Se me la prestate vi pagherò profumatamente! Sto per diventare marchese!" },
+      { "personaggio": "Tassista", "frase": "È vero! Pagherà anche noi!" },
+       { "personaggio": "Gondoliere", "frase": "Non lo so, a me sembra un papero parecchio sfortunato..." },
+      { "personaggio": "Gondoliere", "frase": "ma voglio fidarmi! Salite!" }
+    ]
+  },
+  {
+    "pagina": 82,
+    "immagine": "immagini/pagina82.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Gondoliere", "frase": "Così non va! Il peluche deve stare da questa parte!" },
+      { "personaggio": "Benzinaio", "frase": "Sgrunt!" },
+      { "personaggio": "Cassiera_Autogrill", "frase": "Come sono contenta di essere venuta! Non ho mai visitato Venezia!" },
+      { "personaggio": "Segretario", "frase": "Nemmeno io!" },
+      { "personaggio": "Paperino", "frase": "Non siamo qui per fare i turisti! Devo trovare il notaio Vincenzoni! Datemi il suo indirizzo!" },
+      { "personaggio": "Segretario", "frase": "Non c'è un indirizzo, marchese! Il notaio è un appassionato di barche! È venuto per la Vogalonga..." },
+      { "personaggio": "Paperino", "frase": "Ancora con questa Vogalonga! Che cos'è, un raduno di modellismo?" }
+    ]
+  },
+  {
+    "pagina": 83,
+    "immagine": "immagini/pagina83.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Gondoliere", "frase": "Si, ma... a dimensione reale!" },
+      { "personaggio": "Paperino", "frase": "Stra-gasp!" }
+    ]
+  },
+  {
+    "pagina": 84,
+    "immagine": "immagini/pagina84.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Segretario", "frase": "Il notaio è sicuramente qui in mezzo!" },
+      { "personaggio": "Paperino", "frase": "Grazie tante... e io come lo trovo?" },
+      { "personaggio": "Gondoliere", "frase": "Lo avevo detto, che era sfortunato..." },
+      { "personaggio": "Paperino", "frase": "Notaio Vincenzoni! Notaio Vincenzoniiiii!" },
+      { "personaggio": "Tassista", "frase": "...però è anche caparbio!" }
+    ]
+  },
+  {
+    "pagina": 85,
+    "immagine": "immagini/pagina85.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "Molte ore e nessuna risposta dopo..." },
+      { "personaggio": "Paperino", "frase": "Non c'è... snort! La mia solita sfortuna!" },
+      { "personaggio": "Gondoliere", "frase": "Non fate così, marchese! Andiamo a mangiare qualcosa!" },
+      { "personaggio": "Paperino", "frase": "Sigh..." },
+      { "personaggio": "Cassiera_Autogrill", "frase": "Offrite voi, vero?" },
+      { "personaggio": "Gondoliere", "frase": "Oste! Un tavolo per sei! Paga il Marchese Paperino!" },
+      { "personaggio": "Notaio_Vincenzoni", "frase": "Segretario?!" },
+      { "personaggio": "Segretario", "frase": "Notaio Vincenzoni?!" },
+      { "personaggio": "Paperino", "frase": "Lo abbiamo trovato?!" }
+    ]
+  },
+  {
+    "pagina": 86,
+    "immagine": "immagini/pagina86.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Notaio_Vincenzoni", "frase": "Certo che diventerete marchese! Gnam! I documenti sono autentici..." },
+      { "personaggio": "Notaio_Vincenzoni", "frase": "...ma non li ho più io!" },
+      { "personaggio": "Paperino", "frase": "Sgurgle!" },
+      { "personaggio": "Notaio_Vincenzoni", "frase": "Sono stati trasferiti al notaio Piedipapera, ad Agrigento! In Sicilia!" },
+      { "personaggio": "Paperino", "frase": "Sigh! È tanto lontana, vero?" },
+      { "personaggio": "Segretario", "frase": "Già! Ci serviranno dei costumi da bagno!" },
+      { "personaggio": "Notaio_Vincenzoni", "frase": "Altri due piatti di pasta sul conto del marchese! E indicateci un hotel!" },
+      { "personaggio": "Paperino", "frase": "Potevamo almeno saltare la cena..." }
+    ]
+  },
+  {
+    "pagina": 87,
+    "immagine": "immagini/pagina87.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "La mattina seguente..." },
+      { "personaggio": "Autista_del_pullman", "frase": "Certo che vi credo, marchese, ma non facciamo sconti comitiva!" },
+      { "personaggio": "Paperino", "frase": "E va bene, tutti a bordo!" },
+      { "personaggio": "Cuoca_del_ristorante", "frase": "Io ho portato le pizze per il viaggio! Le mettiamo sul conto del marchese!" },
+      { "personaggio": "Cameriere_Hotel", "frase": "Insieme alle stanze dell'hotel!" },
+      { "personaggio": "Notaio_Vincenzoni", "frase": "Ehi! Sapete che passeremo per la Reggia di Caserta?" },
+      { "personaggio": "Paperino", "frase": "Assolutamente no! Niente più soste fino ad Agrigento!" }
+    ]
+  },
+  {
+    "pagina": 88,
+    "immagine": "immagini/pagina88.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "Esattamente una settimana dopo... (Arrivati davanti alla Reggia di Caserta a causa delle mille tappe e pronti a partire verso la Sicilia dopo aver collocato tutti i creditori in tre autobus diversi)" },
+      { "personaggio": "Paperino", "frase": "Biglietterie nel primo autobus! Trasporto e ristorazione nel secondo! Souvenir nel terzo!" },
+      { "personaggio": "Paperino", "frase": "Il Marchese Paperino pagherà tutti appena arriviamo ad Agrigento!" },
+      { "personaggio": "Didascalia", "frase": "Ma prima c'è il mare da superare..." },
+      { "personaggio": "Paperino", "frase": "La Sicilia è un'isola? Perché non ci ho pensato?!" },
+      { "personaggio": "Tassista", "frase": "Vi serve una barca! E bella grande, marchese!" },
+      { "personaggio": "Principessa_di_Roccasecca", "frase": "Marchese?!" }
+    ]
+  },
+  {
+    "pagina": 89,
+    "immagine": "immagini/pagina89.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Paperino", "frase": "Sono io! Nobilissimo e ricchissimo... se riesco ad arrivare in Sicilia!" },
+      { "personaggio": "Principessa_di_Roccasecca", "frase": "Io sono la Principessa di Roccasecca! Siamo quasi parenti!" },
+      { "personaggio": "Principessa_di_Roccasecca", "frase": "Siete benvenuto sul mio yacht con i vostri dipendenti..." },
+      { "personaggio": "Paperino", "frase": "Veramente sono i miei creditori... ma fa lo stesso! Accettiamo!" },
+      { "personaggio": "Paperino", "frase": "E poi dicono che i nobili non sono generosi..." },
+      { "personaggio": "Principessa_di_Roccasecca", "frase": "Naturalmente dopo che erediterete il titolo mi renderete il favore, investendo nella mia azienda! Produco ciabatte di cactus!" },
+      { "personaggio": "Paperino", "frase": "C-comode!" }
+    ]
+  },
+  {
+    "pagina": 90,
+    "immagine": "immagini/pagina90.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Didascalia", "frase": "Una volta sbarcati in Sicilia..." },
+      { "personaggio": "Creditore_1", "frase": "Sarà la volta buona?" },
+      { "personaggio": "Creditore_2", "frase": "Io comincio a non fidarmi più di questo marchese..." },
+      { "personaggio": "Creditore_3", "frase": "Io ho fame! Prendiamo degli arancine!" },
+      { "personaggio": "Cameriere_Hotel", "frase": "Arancine per tutti! Paga il marchese!" },
+      { "personaggio": "Creditore_4", "frase": "Io posso avere u muluni?" },
+      { "personaggio": "Venditore_di_biglietti", "frase": "Biglietti per la Valle dei Templi, prego!" },
+      { "personaggio": "Creditore_5", "frase": "Paga il Marchese Paperino! È andato avanti, all'ufficio del notaio Piedipapera!" }
+    ]
+  },
+  {
+    "pagina": 91,
+    "immagine": "immagini/pagina91.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Cameriere_Hotel", "frase": "Sento che ci siamo!" },
+      { "personaggio": "Cuoca_del_ristorante", "frase": "Mah! Dopo tanto tempo chi ci crede più?" },
+      { "personaggio": "Benzinaio", "frase": "Sgrunt!" },
+      { "personaggio": "Notaio_Piedipapera", "frase": "Certo che ho i vostri documenti! Titolo ed eredità!" },
+      { "personaggio": "Tassista", "frase": "Finalmente!" },
+      { "personaggio": "Gondoliere", "frase": "Non è più sfortunato, allora!" },
+      { "personaggio": "Notaio_Piedipapera", "frase": "Ma sono digitalizzati, non serviva venire fino a qui! Sarebbe bastato fare richiesta via e-mail!" },
+      { "personaggio": "Paperino", "frase": "Sgurgle!" },
+      { "personaggio": "Notaio_Vincenzoni", "frase": "Io in effetti avrei fatto così..." }
+    ]
+  },
+  {
+    "pagina": 92,
+    "immagine": "immagini/pagina92.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Paperino", "frase": "Ma quindi... sono davvero marchese e ho ereditato una ricchissima terra?" },
+      { "personaggio": "Notaio_Piedipapera", "frase": "Si, certamente! L'isola Ferdinandea è vostra! Ma vi servirà un boccaglio!" },
+      { "personaggio": "Paperino", "frase": "?" },
+      { "personaggio": "Didascalia", "frase": "Poco dopo, a 30 chilometri dalla costa..." },
+      { "personaggio": "Notaio_Piedipapera", "frase": "L'isola Ferdinandea è un'isola sottomarina... emersa brevemente nel 1831, prima di scomparire nuovamente sotto il mare!" },
+      { "personaggio": "Paperino", "frase": "Quindi la mia eredità è là sotto?" }
+    ]
+  },
+  {
+    "pagina": 93,
+    "immagine": "immagini/pagina93.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Gondoliere", "frase": "Niente da fare! È il papero più sfortunato del mondo!" },
+      { "personaggio": "Paperino", "frase": "Dopo tanta fatica... e tanti debiti... ho ereditato uno scoglio sott'acqua..." },
+      { "personaggio": "Notaio_Vincenzoni", "frase": "Credo che scoppierà a piangere..." },
+      { "personaggio": "Principessa_di_Roccasecca", "frase": "A me sembra in ebollizione.." },
+      { "personaggio": "Paperino", "frase": "Argh! Io lo strappo il titolo! Lo divoro! Voglio tornare a casaaa!" },
+      { "personaggio": "Segretario", "frase": "Il nobile se la vuole svignare!" },
+      { "personaggio": "Notaio_Vincenzoni", "frase": "Non prima di aver pagato la mia parcella!" },
+      { "personaggio": "Tassista", "frase": "Mettiti in fila, Piedipapera! Io aspetto il saldo da due settimane!" }
+    ]
+  },
+  {
+    "pagina": 94,
+    "immagine": "immagini/pagina94.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Rumore/suono", "frase": "KA-WOOOOOOOOO (arriva una maestosa nave transatlantica)" },
+      { "personaggio": "Zio_Paperone", "frase": "Saldo io i tuoi debiti, nobilnipote! Sali a bordo e andiamo a casa!" }
+    ]
+  },
+
+  {
+    "pagina": 95,
+    "immagine": "immagini/pagina95.jpeg",
+    "Tratti": [],
+    "dialoghi": [
+      { "personaggio": "Paperino", "frase": "Grazie, zione! Mi hai salvato... anche se sono tornato al punto di partenza!" },
+      { "personaggio": "Zio_Paperone", "frase": "Non proprio! Mi devi molti più soldi di prima!" },
+      { "personaggio": "Paperino", "frase": "Sigh! Pensavo che diventare nobile avrebbe cambiato tutto della mia vita..." },
+      { "personaggio": "Qui_Quo_Qua", "frase": "Ma tu vuoi cambiare proprio tutto tutto, zio?" },
+      { "personaggio": "Paperino", "frase": "No... non tutto, marchesini!" },
+      { "personaggio": "Didascalia", "frase": "FINE" }
+    ]
+  }
+  
+]
